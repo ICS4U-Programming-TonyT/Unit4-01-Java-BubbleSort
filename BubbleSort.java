@@ -2,7 +2,8 @@ import java.util.Scanner;
 import java.io.File;
 import java.io.FileWriter;
 /**.
- * This class converts currency amounts from one currency to another.*
+ * This is the BubbleSort class
+ * This class sorts an array of integers using the bubble sort algorithm.
  * @author Tony Tran
  * @version 1.0
  * @since 2025-04-10
